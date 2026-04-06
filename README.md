@@ -94,14 +94,3 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
-**Bhuvan Krishna**
-
-* GitHub: https://github.com/Bhuvan3000
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
